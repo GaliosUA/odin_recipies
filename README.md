@@ -1,1 +1,1 @@
-Doing some tutorials from The Odin Project. Move along citizen, nothing to see here.
+A simple web page with a few links that lead to recipies for popular Ukrainian dishes.
