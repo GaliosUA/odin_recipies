@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+h1, h4 {
+    color: red;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+.description {
+    color: grey;
+    font-size: 12px;
+}
+
+h4 {
+    color:aquamarine;
+}
+li {
+    color: burlywood;
+}
