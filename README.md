@@ -1,1 +1,1 @@
-A simple web page with a few links that lead to recipies for popular Ukrainian dishes.
+A simple web page with a few links that lead to recipes for popular Ukrainian dishes.
